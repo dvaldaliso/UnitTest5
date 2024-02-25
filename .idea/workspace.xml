@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cb846bf5-5424-4e42-9263-b5142bdc47f0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cobertura.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Complejidad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Fail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HolaMundo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Intro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Persona.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pitagoras.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/SuperCalculadora.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AntesYDespuesTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/CoberturaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ComplejidadTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ComprobandoColeccionesList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ComprobandoExcepciones.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ComprobandoLineasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/ConParametrosTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/FailTest5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/HolaMundoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/IntroTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MetodAssertEquealsDecimalsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MetodAssertEquealsTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/MetodAssertTrueTest4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/OtrosAsserts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PitagorasTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/PreparandoTerrenoTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/SimularEntradaTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bateriaTest.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bateriaTestMal.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/testUnitario.iml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2cpHtnaAO26Y5RNe3cWPCYQRRoA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "Downloaded.Files.Path.Enabled": "false",
+    "JUnit.AntesYDespuesTest.executor": "Run",
+    "JUnit.ComplejidadTest.executor": "Run",
+    "JUnit.ComprobandoColeccionesList.executor": "Run",
+    "JUnit.ComprobandoLineasTest.executor": "Run",
+    "JUnit.ComprobandoLineasTest.test6.executor": "Run",
+    "JUnit.ConParametrosTest.executor": "Run",
+    "JUnit.FailTest5.executor": "Run",
+    "JUnit.FailTest5.test0.executor": "Debug",
+    "JUnit.IntroTest.executor": "Run",
+    "JUnit.MetodAssertEquealsDecimalsTest.executor": "Run",
+    "JUnit.MetodAssertEquealsTest.executor": "Run",
+    "JUnit.MetodAssertTrueTest4.executor": "Run",
+    "JUnit.OtrosAsserts.executor": "Run",
+    "JUnit.PitagorasTest.executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "JUnit5",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5": "",
+    "create.test.in.the.same.root": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/home/davecode/Documents/Proyect/Spring/testUnutarios/testUnitario/test",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ComplejidadTest">
+    <configuration name="AntesYDespuesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testUnitario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="AntesYDespuesTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ComplejidadTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testUnitario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ComplejidadTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConParametrosTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testUnitario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConParametrosTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OtrosAsserts" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testUnitario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="OtrosAsserts" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PitagorasTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="testUnitario" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="PitagorasTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ComplejidadTest" />
+        <item itemvalue="JUnit.PitagorasTest" />
+        <item itemvalue="JUnit.ConParametrosTest" />
+        <item itemvalue="JUnit.AntesYDespuesTest" />
+        <item itemvalue="JUnit.OtrosAsserts" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cb846bf5-5424-4e42-9263-b5142bdc47f0" name="Changes" comment="" />
+      <created>1708801817451</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1708801817451</updated>
+    </task>
+    <servers />
+  </component>
+</project>
